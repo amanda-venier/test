@@ -1,0 +1,18 @@
+/* Styles by Amanda Venier */
+
+#testPage {
+	font-family: 'Raleway', sans-serif;
+	margin: auto;
+	padding: 5%;
+	text-align: center;
+	width: 95%;
+}
+
+#productImage, #productBrand, #productName, #productPrice {
+	margin-top: 1%;
+}
+
+#productPrice {
+	color: red;
+	font-weight: bold;
+}
